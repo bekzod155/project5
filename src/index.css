@@ -21,14 +21,14 @@ html, body, #root {
 } */
 
 #btn {
-  background: #0bbc02;
+  background: #198754;
   color: white;
 }
 #adminnav {
-  background-color: #0bbc02;
+  background-color: #198754;
 }
 .nav-pills .nav-link.active {
-  background-color: #116802 !important; /* Custom color (e.g., orange) */
+  background-color: #010600 !important; /* Custom color (e.g., orange) */
   color: #ffffff !important; /* Ensure text stays readable (white) */
 }
 /* Remove increment and decrement arrows from number input */
@@ -58,12 +58,12 @@ input[type="number"]::-webkit-inner-spin-button {
 footer {
   padding: 10px;
   flex-shrink: 0; /* Prevents footer from shrinking */
-  background-color: #05c434;
+  background-color: #198754;
   color: white;
   width: 100%;
 }
 .navbar-expand-lg {
-  background-color: #05c434;
+  background-color: #198754;
 }
 
 /* Ensure the Navbar doesn’t overlap with other content */
